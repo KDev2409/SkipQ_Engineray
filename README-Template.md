@@ -1,6 +1,4 @@
-# Project Title
-
-EngineRay Website
+# SkipQ/EngineRay 
 
 ## Description
 
